@@ -1,0 +1,4 @@
+node_modules/*
+tabbed.js
+*.sublime-project
+*.sublime-workspace
